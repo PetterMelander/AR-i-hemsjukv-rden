@@ -1,0 +1,84 @@
+<!--
+ Copyright 2019 Google LLC
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<resources>
+
+  <string name="app_name">Card Sample</string>
+  <string name="thin_font">sans-serif-thin</string>
+  <string name="menu_font">sans-serif-thin</string>
+  <string name="menu_item">Menu item</string>
+
+
+  <string-array name="test_patient_1_array">
+    <item>Name: </item>
+    <item>Age: </item>
+    <item>Gender: </item>
+    <item>Adress: </item>
+  </string-array>
+  <string-array name="data_patient_1_array">
+    <item>George Sampleman</item>
+    <item>82</item>
+    <item>Male</item>
+    <item>Willow Creek Drive 13</item>
+  </string-array>
+  <string-array name="conditions_patient_1_array">
+    <item>diabetes</item>
+    <item>hypertension</item>
+    <item>COPD</item>
+  </string-array>
+  <string-array name="checklist_patient_1_array">
+    <item>Take blood pressure</item>
+    <item>Measure glucose, administer insulin if above 200mg/dL</item>
+    <item>Give routine medication</item>
+  </string-array>
+
+  <string-array name="data_patient_2_array">
+    <item>Greta Testperson</item>
+    <item>74</item>
+    <item>Female</item>
+    <item>Evergreen Terrace 14</item>
+  </string-array>
+  <string-array name="conditions_patient_2_array">
+    <item>diabetes</item>
+    <item>hypertension</item>
+    <item>COPD</item>
+  </string-array>
+  <string-array name="checklist_patient_2_array">
+    <item>Take blood pressure</item>
+    <item>Measure glucose, administer insulin if above 200mg/dL</item>
+    <item>Give routine medication</item>
+  </string-array>
+
+  <string-array name="data_patient_3_array">
+    <item>Hans Fakepatient</item>
+    <item>67</item>
+    <item>Male</item>
+    <item>Via Appia 1</item>
+    <item>Married</item>
+
+  </string-array>
+  <string-array name="conditions_patient_3_array">
+    <item>diabetes</item>
+    <item>hypertension</item>
+    <item>COPD</item>
+  </string-array>
+  <string-array name="checklist_patient_3_array">
+    <item>Take blood pressure</item>
+    <item>Measure glucose, administer insulin if above 200mg/dL</item>
+    <item>Give routine medication</item>
+  </string-array>
+
+</resources>
